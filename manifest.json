@@ -1,15 +1,17 @@
 {
   "short_name": "Battaglia",
-  "name": "Carte de Visite - L. Battaglia",
+  "name": "Laurent Battaglia - Contact",
   "icons": [
     {
-      "src": "1.jpg",
-      "type": "image/jpg",
-      "sizes": "512x512"
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "start_url": "./index.html",
-  "background_color": "#e2d1b4",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
   "display": "standalone",
-  "theme_color": "#e2d1b4"
+  "orientation": "portrait"
 }
