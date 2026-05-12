@@ -1,0 +1,15 @@
+{
+  "short_name": "Battaglia",
+  "name": "Carte de Visite - L. Battaglia",
+  "icons": [
+    {
+      "src": "1.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#e2d1b4",
+  "display": "standalone",
+  "theme_color": "#e2d1b4"
+}
